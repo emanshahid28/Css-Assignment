@@ -1,0 +1,507 @@
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #e5fae5;
+}
+.name{
+    font-size: 30px;
+    font-weight: 600;
+}
+#bar{
+    display: flex;
+    margin: 20px;
+    gap: 20px;
+}
+h1{
+    font-size: 50px;
+}
+.green{
+    background-color: rgb(69, 151, 69);
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+p{
+    margin-top: 10px;
+}
+.card{
+    display:flex;
+    margin: 1%;
+    width: 250px;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 5px 25px #00000015;
+    text-align: left;
+}
+#about{
+    display:flex;
+    margin-top:50px;
+    gap:30px;
+    background-color:white;
+    padding-top:20px;  
+    height:500px;
+    border-radius:10px;
+
+}
+#about img{
+    width:500px;
+    border-radius:10px;
+    padding-left:10px;
+    padding-top:20px;
+    height:450px;
+    margin-top:20px;
+}
+.card{
+    display:flex;
+    width:400px
+}
+.image img{
+    height:300px;
+    
+    
+}
+.image{
+    height:550px;
+    justify-content:center;
+    background-color:white;
+    text-align:center;
+   
+}
+image img{
+    position:relative; 
+}
+pe{
+    display:flex;
+    text-align:center;
+}
+button{
+    margin-top:20px;
+    border-radius:30px;
+    width:200px;
+    height:50px;
+    background-color:white;
+    color:green;
+    border-color:green;
+}
+button:hover{
+    color:white;
+    border:none;
+    background-color:green;
+}
+nav{
+    display:inline-block;
+    gap:10px;
+    margin-bottom:50px;
+}
+header{
+    width:350px;
+    height:200px;
+    background-color:white;
+    gap:10px;
+    margin-top:10px;
+    margin-left:20px;
+    padding-top:20px;
+    padding-left:20px;
+    padding-right:20px
+}
+header b{
+    font-size:30px
+}
+header p{
+    font-size:20px;
+    color:gray;
+}
+.circle{
+    width:60px;
+    height:40px;
+    border-radius:50%;
+    border:solid;
+    justify-content:center;
+    text-align:center;
+    align-item:center;
+    margin:auto;
+    padding-top:20px;
+    border-color:gray;
+}
+foot{
+    display:flex;
+    justify-content:space-around;
+    position:relative;
+    text-align:center;
+    margin:auto;
+    align-item:center;
+    margin-top:100px;
+    margin-bottom:100px;
+}
+foot{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+     background-color:white;
+}
+.step {
+    position: relative;
+    width:300px;
+    padding-top:30px;
+}
+.circle {
+    position: relative;
+    background-color: white;
+}
+        .class{
+            margin-left:550px;
+        }
+        .id b{
+            font-size:40px;
+            }
+        .id{
+            text-align:center;
+            margin-top:30px
+
+            }
+        .id span{
+            text-align:center;
+            }
+        m{
+            display:flex;
+            gap:20px;
+    }
+        .m{
+            background-image:url("https://img.magnific.com/free-photo/portrait-young-handsome-guy-chrsitmas_114579-78899.jpg");
+            background-size:cover;
+            width:300px;
+            height:100px;
+            border-radius:30px;
+            padding-top:250px;
+            color:white;
+            margin-top:100px;
+            }
+        .n{
+            background-image:url("https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=480&fit=crop&auto=format");
+            background-size:cover;
+            width:300px;
+            height:100px;
+            border-radius:30px;
+            padding-top:250px;
+            color:white;
+            margin-top:100px;
+            }
+        
+        .o{
+            background-image:url("https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=480&fit=crop&auto=format");
+            background-size:cover;
+            width:300px;
+            height:100px;
+            border-radius:30px;
+            padding-top:250px;
+            color:white;
+            margin-top:100px;
+                }
+        .p{
+           background-image:url("https://img.magnific.com/free-photo/portrait-young-handsome-man-with-curly-hair_1303-27415.jpg");
+            background-size:cover;
+            width:300px;
+            height:100px;
+            border-radius:30px;
+            padding-top:250px;
+            color:white;
+            margin-top:100px;
+            }
+        .m b,.m p,.n b,.n p,.o b,.o p,.p b,.p p{
+            margin-left:30px;
+            }
+.eman1 {
+    background: linear-gradient(120deg, #0c1220, #101b20);
+    color: white;
+    padding: 65px 9% 25px;
+}
+
+.eman2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+    padding-bottom: 65px;
+}
+
+.eman3 {
+    width: 32%;
+}
+
+.eman3 h2 {
+    font-size: 25px;
+    margin-bottom: 17px;
+}
+
+.eman3 h2 span {
+    color: #119b4b;
+}
+
+.eman3 p {
+    color: #9ba9bd;
+    line-height: 27px;
+    margin-bottom: 18px;
+}
+
+.eman4 {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 22px;
+}
+
+.eman4 a{
+    text-decoration: none;
+    color: #9ba9bd;
+    background-color: #192333;
+    border: 1px solid #303b4b;
+    padding: 12px;
+    border-radius: 12px;
+}
+.eman4 a:hover {
+    background-color: #119b4b;
+    color: white;
+}
+.eman5 {
+    display: flex;
+    gap: 10px;
+}
+.eman5 span {
+    background-color: #192333;
+    border: 1px solid #303b4b;
+    color: #bdc6d3;
+    padding: 12px;
+    border-radius: 30px;
+    font-size: 12px;
+}
+.eman6 h3,
+.eman7 h3,
+.eman8 h3 {
+    font-size: 14px;
+    margin-bottom: 28px;
+    position: relative;
+}
+.eman6 li,
+.eman7 li {
+    margin-bottom: 20px;
+}
+
+.eman6 a,
+.eman7 a {
+    color: #9ba9bd;
+    text-decoration: none;
+}
+
+.eman6 a:hover,
+.eman7 a:hover {
+    color: #119b4b;
+}
+
+.eman8 {
+    width: 33%;
+}
+
+.eman8 p {
+    color: #bdc6d3;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+.eman9 {
+    margin-top: 30px;
+}
+
+.eman10 {
+    display: flex;
+    border: 1px solid #354052;
+    border-radius: 30px;
+    background-color: #192333;
+    padding: 7px;
+    margin-bottom: 12px;
+}
+
+.eman10 input {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 8px 12px;
+    width: 100%;
+}
+
+.eman10 button {
+    background-color: #119b4b;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 38px;
+    height: 38px;
+}
+
+.eman8 small {
+    color: #78869c;
+}
+
+.eman11 {
+    border-top: 1px solid #273142;
+    padding-top: 30px;
+    display: flex;
+    color: #78869c;
+    font-size: 13px;
+    justify-content:space-between;
+}
+
+.eman12 {
+    display: flex;
+    gap: 25px;
+    margin-top: 15px;
+    text-decoration: none;
+    color: #9ba9bd;
+}
+.eman13 {
+    text-align: right;
+}
+
+.eman13 p {
+    margin-bottom: 15px;
+}
+a{
+    text-decoration:none;
+    color:black; 
+    gap: 20px;      
+}
+.last{
+    display:flex;
+}   
+.testimonials {
+    background-color: #336e13;
+    padding: 70px 8%;
+    text-align:center;
+    color:white;
+    border-radius:20px;
+    margin:20px;
+}
+.testimonial-heading h1 {
+    font-size: 35px;
+    margin-bottom: 40px;
+
+}
+.testimonial-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.testimonial-card {
+    background-color: white;
+    width: 280px;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 3px 15px #00000010;
+}
+
+.testimonial-card h2 {
+    color: #32845c;
+    font-size: 40px;
+    margin: 0;
+}
+
+.testimonial-card p {
+    color: #555;
+    line-height: 1.7;
+}
+
+.person {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 25px;
+}
+
+.person img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.person h3 {
+    font-size: 15px;
+    margin: 0;
+    color: #183b2b;
+}
+
+.person span {
+    font-size: 12px;
+    color: gray;
+}
+.gift{
+    background-color:rgb(255, 132, 0);
+    color: white;
+    text-align: center;
+    border-radius: 30px;
+    padding: 30px;
+    margin: 20px;
+}
+.fa-heart{
+    font-size: 40px;
+ }
+ .contact {
+    padding: 60px 8%;
+    background-color: #f8faf8;
+}
+
+.contact-heading {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.contact-heading p {
+    color: #26945e;
+}
+
+.contact-heading h1 {
+    font-size: 35px;
+}
+
+.contact-container {
+    display: flex;
+    gap: 40px;
+}
+
+.contact-info,
+.contact-form {
+    width: 50%;
+}
+
+.info{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.info h3 {
+    color: #26945e;
+}
+
+.map iframe {
+    border: none;
+}
+.contact-form {
+    background-color: white;
+    padding: 25px;
+}
+.contact-form label {
+    display: block;
+    margin-top: 15px;
+}
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+}
+.last{
+    display: block;
+}
